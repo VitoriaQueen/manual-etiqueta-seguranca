@@ -42,7 +42,7 @@ SENAC – Barretos (Brazil)
 
 **Thank you for visiting!**
 
-<p align="center"> ✦ ──────────────────────── ✦ ──────────────────────── ✦ ──────────────────────── ✦</p>
+<p align="center"> ✦ ──────────────────────── ✦ ──────────────────────── ✦</p>
 
 # Manual de Etiqueta e Segurança do Estudante
 

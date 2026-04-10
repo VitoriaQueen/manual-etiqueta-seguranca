@@ -13,9 +13,11 @@ The main goal of this repository is to showcase the skills applied during the de
 
 ## 📘 Manual Preview | Scan the QR code to view the manual online
 
-![Manual Cover](assets/images/manual-cover.png)  ![Manual Page 1](assets/images/manual-page-1.png)
-
-![Manual Page 2](assets/images/manual-age-2.png)  ![Manual QR code page](assets/images/manual-qrcode-page.png)
+<p align="center">
+   <img src="assets/images/manual-cover.png" width="400"/> <img src="assets/images/manual-page-1.png" width="400"/> 
+  <img src="assets/images/manual-age-2.png" width="400"/> <img src="assets/images/manual-qrcode-page.png" width="400"/>
+ 
+</p>
 
 ## 🏫 Certification
 **Information Technology Assistant**  
